@@ -1,5 +1,3 @@
 Hello Git
 
 hello feb 13
-
-today is feb 14
